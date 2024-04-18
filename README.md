@@ -1,3 +1,6 @@
+# Updates Coming Soon!
+This project is old!!! A newer version is on the way. I rewrote this tool in C# and the new version is a lot better and easier to manage.
+
 # PkgView
 PkgView source code cleaned up a bit. Note that at the time I was not very good at programming.
 
